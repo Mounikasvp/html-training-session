@@ -29,5 +29,10 @@ this repo is about html-training-session
     <td>task-4</td>
     <td>understanding noscript tags</td>
   </tr>
+  <tr>
+  <td>5</td>
+  <td>task-5</td>
+  <td>create a external CSS,and link it using link tag</td>
+  </tr>
  </table>
   
