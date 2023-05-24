@@ -34,5 +34,10 @@ this repo is about html-training-session
   <td>task-5</td>
   <td>create a external CSS,and link it using link tag</td>
   </tr>
+  <tr>
+  <td>6</td>
+  <td>task-6</td>
+  <td>inserting the icon web document</td>
+  </tr>
  </table>
   
