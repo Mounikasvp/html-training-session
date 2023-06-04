@@ -30,17 +30,16 @@ this repo is about html-training-session
     <td>understanding noscript tags</td>
   </tr>
   <tr>
-  <td>5</td>
-  <td>task-5</td>
-  <td>create a external CSS,and link it using link tag</td>
+    <td>5</td>
+    <td>task-5</td>
+    <td>create a external CSS,and link it using link tag</td>
   </tr>
   <tr>
-  <td>6</td>
-  <td>task-6</td>
-  <td>inserting the icon web document</td>
+    <td>6</td>
+    <td>task-6</td>
+    <td>inserting the icon web document</td>
   </tr>
- </table>
- <tr>
+  <tr>
     <td>7</td>
     <td>task-7</td>
     <td>Understanding the title tag in the Html</td>
@@ -69,12 +68,10 @@ this repo is about html-training-session
     <td>12</td>
     <td>task-12</td>
     <td>HTML Entities and Comments</td>
-  </tr>
   <tr>
-  <td>13</td>
-  <td>task-13</td>
-  <td>Creating a team list </td>
-  </tr>
-</table>
-
+    <td>13</td>
+    <td>task-13</td>
+    <td>Creating a team list </td>
+    </tr>
+<table>
   
