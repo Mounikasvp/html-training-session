@@ -93,6 +93,11 @@ this repo is about html-training-session
   <td>task-17</td>
   <td>Creating HR and BR in the html file</td>
   </tr>
+  <tr>
+  <td>18</td>
+  <td>task-18</td>
+  <td>Div tag in Html</td>
+  </tr>
 
 <table>
   
