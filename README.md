@@ -88,6 +88,11 @@ this repo is about html-training-session
   <td>task-16</td>
   <td>creating paragraphs in thr html file</td>
   </tr>
+  <tr>
+  <td>17</td>
+  <td>task-17</td>
+  <td>Creating HR and BR in the html file</td>
+  </tr>
 
 <table>
   
