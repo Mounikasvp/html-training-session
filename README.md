@@ -78,6 +78,11 @@ this repo is about html-training-session
     <td>task-14</td>
     <td>creating border for task-13</td>
   </tr>
+  <tr>
+  <td>15</td>
+  <td>task-15</td>
+  <td>Creating headings in the html file</td>
+  </tr>
 
 <table>
   
