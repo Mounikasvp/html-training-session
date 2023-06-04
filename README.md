@@ -40,4 +40,41 @@ this repo is about html-training-session
   <td>inserting the icon web document</td>
   </tr>
  </table>
+ <tr>
+    <td>7</td>
+    <td>task-7</td>
+    <td>Understanding the title tag in the Html</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>task-8</td>
+    <td>Internal Style Sheet </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>task-9</td>
+    <td>Redirect your web document after 5 seconds tp another website</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>task-10</td>
+    <td>Background Image For Body</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>task-11</td>
+    <td>Understanding anchor tag</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>task-12</td>
+    <td>HTML Entities and Comments</td>
+  </tr>
+  <tr>
+  <td>13</td>
+  <td>task-13</td>
+  <td>Creating a team list </td>
+  </tr>
+</table>
+
   
