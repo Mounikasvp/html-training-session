@@ -83,6 +83,11 @@ this repo is about html-training-session
   <td>task-15</td>
   <td>Creating headings in the html file</td>
   </tr>
+  <tr>
+  <td>16</td>
+  <td>task-16</td>
+  <td>creating paragraphs in thr html file</td>
+  </tr>
 
 <table>
   
